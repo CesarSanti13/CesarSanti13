@@ -18,7 +18,6 @@ I am a Computer Science Engineer, passionate about Business and the Data Analyti
   - AWS
 - **Interesting Data About me**
   - 🍕 I love pizza, 💪🏽 I like to do exercise, 🥊 I love to practice box, and 🌊 I don’t know why, but I love different bodies of water.
-  - 📫 Reach out to me at: <a href="santiagogarciacesar19@hotmail.com">santiagogarciacesar19@hotmail.com</a>
 
 ## 💻 Languages I used 
 
@@ -37,9 +36,15 @@ I am a Computer Science Engineer, passionate about Business and the Data Analyti
 
 ## 💾 Databases I used 
 <div class="Databases" align="Center">
-  <img  alt="Maria DB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img  alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img  alt="Maria DB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img  alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img  alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img  alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>  
+</div>
+
+## 📫 Get In Touch
+<div class="Contact">
+  <a href="https://www.linkedin.com/in/cesar-santiago-data-analyst/"> <img  alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></img></a>
+<a href="mailto:santiagogarciacesar19@hotmail.com"> <img  alt="Linkedin" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a></img></a>
 </div>
