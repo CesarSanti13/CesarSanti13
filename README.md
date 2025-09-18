@@ -6,7 +6,7 @@
 </div>
 <h3 align="center"><strong>Do you know?</strong> Less than 1% of all the data we produce is analized or used to drive decisions.🤯</h3>
 
-## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" />
+## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" />
 
 <img src="pizza.gif" width="25px">**About me**<br>
 **Focused on Business Intelligence Analysis**<br>
