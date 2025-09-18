@@ -8,21 +8,18 @@
 
 ## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***About me***<br>
+<img src="pizza.gif" width="25px">**About me**<br>
 **Focused on Business Intelligence Analysis**<br>
 I am a Computer Science Engineer, passionate about Business and the Data Analytics field, with extensive experience in IT and strong knowledge of Databases, Programming, Leadership, and Teamwork. I'm passionate for developing myself by continuous learning and driven by a desire to explore new challenges...
 - **I’m currently deep learning**
   - Python
   - Locker Studio
   - Microsoft Fabric
+  - AWS
 
 - **Interesting Data About me**
-  - 🍕 I love Pizza, 💪🏽 Like to go to the Gym, 🥊 Like to practice Box, and 🌊don't know why but love the differents bodies of wather.
- 
-
+  - 🍕 I love pizza, 💪🏽 I like to do exercise, 🥊 I love to practice box, and 🌊 I don’t know why, but I love different bodies of water.
   - 📫 Reach out to me at: <a href="santiagogarciacesar19@hotmail.com">santiagogarciacesar19@hotmail.com</a>
-
-
 
 ## 💻 Languages I used 
 
