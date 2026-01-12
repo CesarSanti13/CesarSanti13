@@ -9,13 +9,13 @@
 ## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
 <img src="pizza.gif" width="25px">**About me**<br>
-**Focused on Business Intelligence Analysis**<br>
+**Focused on Data Engineer and ETL Pipelines**<br>
 I am a Computer Science Engineer, passionate about Business and the Data Analytics field, with extensive experience in IT and strong knowledge of Databases, Programming, Leadership, and Teamwork. I'm passionate for developing myself by continuous learning and driven by a desire to explore new challenges...
-- **I’m currently deep learning**
+- **I’m currently working and deep learning**
   - Python
-  - Locker Studio
-  - Microsoft Fabric
-  - AWS
+  - SQL
+  - ETL
+  - GCP
 - **Interesting Data About me**
   - 🍕 I love pizza, 💪🏽 I like to do exercise, 🥊 I love to practice box, and 🌊 I don’t know why, but I love different bodies of water.
 
@@ -23,6 +23,7 @@ I am a Computer Science Engineer, passionate about Business and the Data Analyti
 
 <div class="Languages" align="Center">
   <img  alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img  alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img  alt="Java Script" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img  alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
